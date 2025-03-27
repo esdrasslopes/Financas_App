@@ -8,6 +8,7 @@ Este é um aplicativo de finanças desenvolvido com **React Native** para gerenc
 - **Registro de receitas e despesas**.
 - **Exibição de saldo atual**.
 - **Exibição de entradas e saídas do dia**.
+- **Pesquisa de despesas por datas específicas usando um calendário interativo**.
 - **Deleção de receitas e despesas**.
 - **Logout** do usuário.
 - Navegação entre páginas usando **Stack** e **Drawer**.
@@ -16,6 +17,7 @@ Este é um aplicativo de finanças desenvolvido com **React Native** para gerenc
 
 - **React Native**: Framework para o desenvolvimento do aplicativo.
 - **React Navigation**: Biblioteca para navegação entre telas, incluindo **Stack Navigator** e **Drawer Navigator**.
+- **React Native Calendars**: Biblioteca para exibição de calendário e seleção de datas.
 - **API RESTful**: Consumo de API para persistência de dados.
 - **Axios**: Biblioteca para fazer requisições HTTP.
 
