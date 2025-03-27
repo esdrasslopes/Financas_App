@@ -18,6 +18,7 @@ Este é um aplicativo de finanças desenvolvido com **React Native** para gerenc
 - **React Native**: Framework para o desenvolvimento do aplicativo.
 - **React Navigation**: Biblioteca para navegação entre telas, incluindo **Stack Navigator** e **Drawer Navigator**.
 - **React Native Calendars**: Biblioteca para exibição de calendário e seleção de datas.
+- **Styled Components**: Biblioteca para estilização de componentes no React Native.
 - **API RESTful**: Consumo de API para persistência de dados.
 - **Axios**: Biblioteca para fazer requisições HTTP.
 
